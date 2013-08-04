@@ -7,6 +7,7 @@ Version: v1.0
 
 Instructions for use
 --------------------
-migrate the contents into html, css and javascript files. requires jquery 1.8+ 
+Migrate the contents into html, css and javascript files. requires jquery 1.8+
+Set data-rating-max to desired rating max value
 
 
