@@ -1,0 +1,37 @@
+﻿{
+    "name": "jsimple-star-rating",
+    "title": "jSimple Star Rating",
+    "description": "jQuery plugin to generate a simple star rating element. Hover, Active, Select, Deselect, Minus. Selected rating stored as data-attribute, server readable if required. Number of stars configurable.",
+    "keywords": [
+        "star",
+        "rating",
+        "rate",
+        "rater",
+        "score"
+    ],
+    "version": "2.0.0",
+    "author": {
+        "name": "Matt O'Neill",
+        "url": "http://www.matt-oneill.co.uk"
+    },
+    "maintainers": [
+        {
+        "name": "Matt O'Neill",
+        "email": "m.oneill@1stcreativesolutions.co.uk",
+        "url": "http://www.matt-oneill.co.uk"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/MattONeillUK/jSimple-Star-Rating/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "",
+    "homepage": "https://github.com/MattONeillUK/jSimple-Star-Rating",
+    "docs": "",
+    "download": "https://github.com/MattONeillUK/jSimple-Star-Rating/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
